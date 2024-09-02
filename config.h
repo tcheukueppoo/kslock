@@ -23,13 +23,13 @@ static int blurRadius=20;
 static int const pixelSize=5;
 
 /* default message */
-static const char * message = "Follow your dreams";
+static const char * message = "Go away!";
 
 /* text color */
 static char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static char * font_name = "Cooper Hewitt:size=90";
+static char * font_name = "UbuntuMono Nerd Font:size=90";
 
 /* time in seconds to cancel lock with mouse movement */
 static const int timetocancel = 4;
